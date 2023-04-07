@@ -35,14 +35,12 @@ img {
   margin: 0 auto;
 }
 
-.menu {
+header {
   margin-top: 40px;
   margin-bottom: 84px
 }
 
 .navigation {
-  margin-top: 11px;
-  margin-bottom: 12px
 }
 
 .link {
