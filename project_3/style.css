@@ -201,10 +201,10 @@ main {
   align-items: center;
   text-align: center;
   padding-bottom: 50px;
+  background: #FFFFFF;
 }
 
 .card2 {
-  background: #FFFFFF;
   box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
 }
 
