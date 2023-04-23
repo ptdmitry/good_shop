@@ -24,6 +24,7 @@ img {
 
 header {
   background: #222222;
+  min-width: 1140px;
 }
 
 .navigation {
@@ -45,7 +46,8 @@ header {
 }
 
 .main__background {
-  background: #F1E4E6;
+  background-color: #F1E4E6;
+  min-width: 1140px;
 }
 
 .main__content {
@@ -237,4 +239,10 @@ header {
   line-height: 19px;
   color: #F26376;
   padding: 15px 39px;
+}
+
+@media (max-width: 1140px) {
+  .container {
+    /* width: 768px; */
+  }
 }
