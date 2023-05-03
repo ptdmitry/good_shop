@@ -655,6 +655,7 @@ header {
   }
 
   .subscribe__list {
+    width: 341px;
     padding-top: 54px;
     padding-bottom: 110px;
   }
